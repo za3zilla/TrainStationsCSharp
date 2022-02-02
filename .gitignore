@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/TrainStations/.vs/TrainStations
+/TrainStations/TrainStations/bin
+/TrainStations/TrainStations/obj
+/TrainStations/TrainStations.Entities/obj
+/TrainStations/TrainStations.Entities/bin
+/TrainStations/TrainStations.UnitTests/bin
+/TrainStations/TrainStations.UnitTests/obj
